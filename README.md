@@ -1,8 +1,5 @@
-# 🐝 **SpeedyBee** – _Buzz Through Your Reading Time_
+## ![SpeedyBee Logo](./images/icon-16.png) **SpeedyBee** – _Buzz Through Your Reading Time_
 
-<div style="text-align: center;">
- <img src="./images/icon-128.png" alt="SpeedyBee"  width="177" height="177"/>
-</div>
 **SpeedyBee** buzzes through content and tells you exactly how many minutes you’ll need to read it — fast, clean, and smart. Perfect for readers who want to make the most of their time. 🐝 Whether you’re working, learning, or just browsing, **SpeedyBee** makes sure you fly through with purpose.
 
 ## 🚀 Features
