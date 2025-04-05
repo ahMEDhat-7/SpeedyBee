@@ -1,18 +1,16 @@
-# Reading Timer
+# 🐝 **SpeedyBee** – _Buzz Through Your Reading Time_
 
-This script calculates the estimated reading time for the content inside HTML elements (`main`, `article`, or `section`) and adds a visual badge showing the reading time.
+<div style="text-align: center;">
+ <img src="./images/icon-128.png" alt="SpeedyBee"  width="177" height="177"/>
+</div>
+**SpeedyBee** buzzes through content and tells you exactly how many minutes you’ll need to read it — fast, clean, and smart. Perfect for readers who want to make the most of their time. 🐝 Whether you’re working, learning, or just browsing, **SpeedyBee** makes sure you fly through with purpose.
 
-## Features
+## 🚀 Features
 
-- Calculates reading time based on an average speed of **100 words per minute**.
-- Targets `main`, `article`, or `section` elements.
-- Skips short content (less than or equal to 50 words).
-- Injects a styled badge showing reading time (e.g., `⏱️ 7 min read`).
-- Attempts to place the badge after:
-  - A heading (`h1`, `h2`, or `h3`) if available.
-  - A `time` tag's parent (e.g., near the date).
-  - Else inserts the badge at the beginning of the element.
-  - If the element is a paragraph (`<p>`), it tries to insert the badge after the first sentence.
+- Fast reading time calculation
+- Displays a badge showing estimated time (in minutes)
+- Automatically inserts the badge after headings or paragraphs
+- Works with `main`, `article`, and `section` elements
 
 ## Usage
 
